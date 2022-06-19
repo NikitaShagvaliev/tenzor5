@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidTenzor</string>
+    <string name="receiver_messages_read">All messages is read</string>
+    <string name="receiver_read_button">Read</string>
+    <string name="sender_hint">Input text</string>
+    <string name="sender_send_button">Send message</string>
+</resources>
